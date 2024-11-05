@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/inputFragment">
+    <fragment
+        android:id="@+id/inputFragment"
+        android:name="com.sravanapps.githubrepoapplication.presentation.views.fragments.UsernameFragment"
+        tools:layout="@layout/fragment_username" >
+        <action
+            android:id="@+id/action_inputFragment_to_outputFragment"
+            app:destination="@id/outputFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/outputFragment"
+        android:name="com.sravanapps.githubrepoapplication.presentation.views.fragments.RepositoryListFragment"
+        tools:layout="@layout/fragment_repository_list" />
+</navigation>
