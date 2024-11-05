@@ -37,9 +37,14 @@ This Android application interacts with the GitHub API to fetch and display repo
 3. Sync Gradle and build the project.
 
 ## Screenshots
-![Screenshot 2024-11-04 at 7.23.35 PM.png](../../../Desktop/Screenshot%202024-11-04%20at%207.23.35%20PM.png)
-![Screenshot 2024-11-04 at 7.21.40 PM.png](../../../Desktop/Screenshot%202024-11-04%20at%207.21.40%20PM.png)
-[Screen_recording_20241104_231220.mp4](../../../Screen_recording_20241104_231220.mp4)
+
+<img width="312" alt="Screenshot 2024-11-04 at 7 23 35 PM" src="https://github.com/user-attachments/assets/717e9623-cef6-4fd3-bbb8-3298bf83d5a5">
+
+<img width="329" alt="Screenshot 2024-11-04 at 7 21 40 PM" src="https://github.com/user-attachments/assets/214712fe-b61e-4476-b8a4-93f1bf5f851e">
+
+https://github.com/user-attachments/assets/337c81d8-fed0-494a-af9a-0713af54e9fb
+
+
 Steps : 
 1. Open the App.
 2. Enter any GitHub Username.
